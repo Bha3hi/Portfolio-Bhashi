@@ -19,37 +19,19 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
+            I am a third-year undergraduate at the University of Moratuwa, Faculty of Information Technology, with a passion for
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> web development and UI/UX design. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I aspire to become a &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple">software engineer, </b> driven by a strong enthusiasm for creating user-friendly and efficient digital solutions.
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              My goal is to build innovative and impactful applications that deliver seamless experiences. 
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -78,9 +60,7 @@ function Home2() {
               
               <li className="social-icons">
                 <a
-                  href="www.linkedin.com/in/
-bhashini-mananadee
-"
+                  href="http://www.linkedin.com/in/bhashini-mananadee"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

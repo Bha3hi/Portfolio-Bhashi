@@ -13,18 +13,17 @@ function AboutCard() {
             <br />
             I am currently  a software Engineer intern.
             <br />
-            I'm  undergraduate BSc (Hones) IT at University of Moratuwa.
-            Mesra.
+            I'm  undergraduate BSc (Hons) IT at University of Moratuwa.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Drawing
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Video Making
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
