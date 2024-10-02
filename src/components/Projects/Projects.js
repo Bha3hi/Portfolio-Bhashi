@@ -25,10 +25,10 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="CLIPESS WEB"
+              description="Web application provides a platform to manage the company insights and the employees build with TypeScript, ASP.NET core, and MS SQL. I contributed to the project by designing the UI, creating authentication and authorization systems and creating the Admin Module which allows to manage employees in the system using CRUD operations."
+              // ghLink="https://github.com/soumyajit4419/Chatify"
+              // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
@@ -36,14 +36,14 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="LEO BOOK"
+              description="Management system for the Leo Club of the University of Moratuwa built with MongoDB , NodeJS, Express, Docker, NextJS, and Tailwind. This system is intended to support and streamline the activities of club officers, members, and prospects, with plans for expansion to the 306 Leo multiple districts in Sri Lanka and Maldives."
+              // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
               isBlog={false}
@@ -86,7 +86,7 @@ function Projects() {
               ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>
